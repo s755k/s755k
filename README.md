@@ -64,8 +64,8 @@ I make interactive, over-the-top-in-a-good-way websites: scroll-triggered animat
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=s755k&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s755k&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" />
+<img height="180" src="https://raw.githubusercontent.com/s755k/s755k/output/stats.svg" alt="GitHub stats" />
+<img height="180" src="https://raw.githubusercontent.com/s755k/s755k/output/top-langs.svg" alt="Top languages" />
 
 <br/>
 
