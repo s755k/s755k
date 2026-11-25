@@ -53,8 +53,14 @@ I make interactive, over-the-top-in-a-good-way websites: scroll-triggered animat
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,vite,threejs,nodejs,git,github,vscode,figma&theme=dark&perline=10" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,expo,vite,threejs,nodejs,php,py,flask,pandas,numpy,matplotlib,c,godot,git,github,vscode,figma&theme=dark&perline=10" alt="Tech stack" />
 </a>
+
+<br/>
+
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 </div>
 
