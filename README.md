@@ -3,30 +3,29 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20s755k&fontSize=52&fontAlignY=38&desc=Creative%20developer%20%E2%80%A2%20Web%20%E2%80%A2%203D&descAlignY=58&animation=fadeIn" alt="header" />
 
 <a href="https://github.com/s755k">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+delightful+things+for+the+web;Obsessed+with+3D+%26+interactive+experiences;Vite+%2B+Three.js+%2B+way+too+much+CSS;Turning+ideas+into+pixels+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+delightful+things+for+the+web;Obsessed+with+3D+%26+interactive+experiences;Vite+%2B+Three.js+%2B+way+too+much+CSS" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=s755k&label=Profile%20views&color=8b5cf6&style=for-the-badge)
 [![Followers](https://img.shields.io/github/followers/s755k?label=Followers&style=for-the-badge&logo=github&color=6d28d9)](https://github.com/s755k?tab=followers)
-[![Stars](https://img.shields.io/github/stars/s755k?label=Stars&style=for-the-badge&logo=github&color=7c3aed)](https://github.com/s755k?tab=repositories&sort=stargazers)
 
 </div>
 
 ---
 
-## 👾 About me
+## About me
 
 I make interactive, over-the-top-in-a-good-way websites: scroll-triggered animations, 3D scenes, and a lot of attention to the small details that make someone smile.
 
-- 🎨 **Style:** maximalist, playful, detail-obsessed
-- 🧊 **Into:** Three.js, WebGL, motion design, creative coding
-- ⚡ **Daily driver:** Vite + vanilla JS (frameworks when they earn their place)
-- 📫 **Best way to reach me:** [open an issue](https://github.com/s755k/s755k/issues/new) or use the links at the bottom
+- **Style:** maximalist, playful, detail-obsessed
+- **Into:** Three.js, WebGL, motion design, creative coding
+- **Daily driver:** Vite + vanilla JS (frameworks when they earn their place)
+- **Best way to reach me:** [open an issue](https://github.com/s755k/s755k/issues/new) or use the links at the bottom
 
 <details>
-<summary><b>🎲 Click for a random fact about me</b></summary>
+<summary><b>Click for a random fact about me</b></summary>
 <br/>
 
 - I'd rather hand-tune an easing curve for an hour than ship a default one.
@@ -36,20 +35,20 @@ I make interactive, over-the-top-in-a-good-way websites: scroll-triggered animat
 </details>
 
 <details>
-<summary><b>🧭 What I'm into right now</b></summary>
+<summary><b>What I'm into right now</b></summary>
 <br/>
 
 | | |
 |---|---|
-| 🔭 Exploring | Shaders, GSAP, scroll-driven 3D |
-| 🛠️ Building | Interactive web experiences & personal sites |
-| 🌱 Leveling up | Performance, accessibility, clean architecture |
+| Exploring | Shaders, GSAP, scroll-driven 3D |
+| Building | Interactive web experiences & personal sites |
+| Leveling up | Performance, accessibility, clean architecture |
 
 </details>
 
 ---
 
-## 🧰 Tech stack
+## Tech stack
 
 <div align="center">
 
@@ -61,12 +60,12 @@ I make interactive, over-the-top-in-a-good-way websites: scroll-triggered animat
 
 ---
 
-## 📊 GitHub stats
+## GitHub stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=s755k&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s755k&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=s755k&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s755k&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" />
 
 <br/>
 
@@ -74,7 +73,7 @@ I make interactive, over-the-top-in-a-good-way websites: scroll-triggered animat
 
 </div>
 
-### 📈 Contribution activity
+### Contribution activity
 
 <div align="center">
 
@@ -82,7 +81,7 @@ I make interactive, over-the-top-in-a-good-way websites: scroll-triggered animat
 
 </div>
 
-### 🐍 Contribution snake
+### Contribution snake
 
 <div align="center">
 
@@ -94,21 +93,9 @@ I make interactive, over-the-top-in-a-good-way websites: scroll-triggered animat
 
 </div>
 
-<details>
-<summary><b>🏆 Trophy case</b></summary>
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=s755k&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
-
-</div>
-
-</details>
-
 ---
 
-## 💬 Today's dev wisdom
+## Today's dev wisdom
 
 <div align="center">
 
@@ -116,13 +103,13 @@ I make interactive, over-the-top-in-a-good-way websites: scroll-triggered animat
 
 <br/>
 
-<sub>↻ Refresh the page for a new quote</sub>
+<sub>Refresh the page for a new quote</sub>
 
 </div>
 
 ---
 
-## 🌐 Let's connect
+## Let's connect
 
 <div align="center">
 
@@ -133,7 +120,7 @@ I make interactive, over-the-top-in-a-good-way websites: scroll-triggered animat
 
 <br/>
 
-⭐ **If something here made you smile, leave a star on a repo!** ⭐
+If something here made you smile, leave a star on a repo.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
 
