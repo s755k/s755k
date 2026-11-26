@@ -13,11 +13,15 @@
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/s755k/s755k/main/assets/hero.svg" width="100%" alt="Illustration: floating cubes and an animated code window" /></div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/s755k/s755k/main/assets/divider.svg" width="100%" alt="" /></div>
 
 ## About me
 
 I make interactive, over-the-top-in-a-good-way websites: scroll-triggered animations, 3D scenes, and a lot of attention to the small details that make someone smile.
+
+<div align="center"><img src="https://raw.githubusercontent.com/s755k/s755k/main/assets/cards.svg" width="100%" alt="Interactive Web, 3D and Motion, Creative Code" /></div>
 
 - **Style:** maximalist, playful, detail-obsessed
 - **Into:** Three.js, WebGL, motion design, creative coding
@@ -46,32 +50,31 @@ I make interactive, over-the-top-in-a-good-way websites: scroll-triggered animat
 
 </details>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/s755k/s755k/main/assets/divider.svg" width="100%" alt="" /></div>
 
 ## Tech stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,py,java,c,cpp,cs,go,rust,kotlin,swift,dart,ruby,lua,php,godot&theme=dark&perline=10" alt="" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,py,java,c,cpp,cs&theme=dark&perline=10" alt="" />
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,vite,threejs,flutter,androidstudio&theme=dark&perline=10" alt="" />
+<img src="https://skillicons.dev/icons?i=go,rust,kotlin,swift,dart,ruby,lua,php,godot,react&theme=dark&perline=10" alt="" />
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi,graphql,mysql,sqlite,postgres,mongodb,redis,firebase,pandas,numpy,matplotlib,tensorflow,pytorch&theme=dark&perline=10" alt="" />
+<img src="https://skillicons.dev/icons?i=nextjs,vue,svelte,tailwind,bootstrap,vite,threejs,flutter,androidstudio,nodejs&theme=dark&perline=10" alt="" />
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,nginx,aws,gcp,vercel,netlify,cloudflare,githubactions,git,github,linux,ubuntu,windows,bash,npm,postman,vscode&theme=dark&perline=10" alt="" />
+<img src="https://skillicons.dev/icons?i=express,flask,django,fastapi,graphql,mysql,sqlite,postgres,mongodb,redis&theme=dark&perline=10" alt="" />
+<br/>
+<img src="https://skillicons.dev/icons?i=firebase,tensorflow,pytorch,docker,nginx,aws,gcp,vercel,netlify,cloudflare&theme=dark&perline=10" alt="" />
+<br/>
+<img src="https://skillicons.dev/icons?i=githubactions,git,github,linux,ubuntu,windows,bash,npm,postman,vscode&theme=dark&perline=10" alt="" />
 <br/>
 <img src="https://skillicons.dev/icons?i=figma,blender,ps,ai,ae,pr,unity,arduino,raspberrypi,instagram&theme=dark&perline=10" alt="" />
 <br/>
-<br/>
-<img src="https://cdn.simpleicons.org/expo/ffffff" height="40" alt="Expo" />&nbsp;
-<img src="https://cdn.simpleicons.org/render/46E3B7" height="40" alt="Render" />&nbsp;
-<img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva" />&nbsp;
-<img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="Claude" />&nbsp;
-<img src="https://cdn.simpleicons.org/davinciresolve/ffffff" height="40" alt="DaVinci Resolve" />
+<img src="https://raw.githubusercontent.com/s755k/s755k/main/assets/icons/pandas.svg" height="48" alt="pandas" /> <img src="https://raw.githubusercontent.com/s755k/s755k/main/assets/icons/numpy.svg" height="48" alt="NumPy" /> <img src="https://raw.githubusercontent.com/s755k/s755k/main/assets/icons/matplotlib.svg" height="48" alt="Matplotlib" /> <img src="https://raw.githubusercontent.com/s755k/s755k/main/assets/icons/canva.svg" height="48" alt="Canva" /> <img src="https://cdn.simpleicons.org/expo/ffffff" height="48" alt="Expo" /> <img src="https://cdn.simpleicons.org/render/46E3B7" height="48" alt="Render" /> <img src="https://cdn.simpleicons.org/claude/D97757" height="48" alt="Claude" /> <img src="https://cdn.simpleicons.org/davinciresolve/ffffff" height="48" alt="DaVinci Resolve" />
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/s755k/s755k/main/assets/divider.svg" width="100%" alt="" /></div>
 
 ## GitHub stats
 
@@ -106,7 +109,7 @@ I make interactive, over-the-top-in-a-good-way websites: scroll-triggered animat
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/s755k/s755k/main/assets/divider.svg" width="100%" alt="" /></div>
 
 ## Today's dev wisdom
 
@@ -120,7 +123,7 @@ I make interactive, over-the-top-in-a-good-way websites: scroll-triggered animat
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/s755k/s755k/main/assets/divider.svg" width="100%" alt="" /></div>
 
 ## Let's connect
 
