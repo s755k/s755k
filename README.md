@@ -52,18 +52,22 @@ I make interactive, over-the-top-in-a-good-way websites: scroll-triggered animat
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,threejs,nodejs,php,py,flask,pandas,numpy,matplotlib,c,godot,blender,netlify,cloudflare,instagram,mysql,sqlite,postgres,firebase,docker,linux,bash,tailwind,vercel,postman,npm,git,github,githubactions,vscode,figma,ae&theme=dark&perline=10" alt="Tech stack" />
-</a>
-
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,py,java,c,cpp,cs,go,rust,kotlin,swift,dart,ruby,lua,php,godot&theme=dark&perline=10" alt="" />
 <br/>
-
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,vite,threejs,flutter,androidstudio&theme=dark&perline=10" alt="" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi,graphql,mysql,sqlite,postgres,mongodb,redis,firebase,pandas,numpy,matplotlib,tensorflow,pytorch&theme=dark&perline=10" alt="" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,nginx,aws,gcp,vercel,netlify,cloudflare,githubactions,git,github,linux,ubuntu,windows,bash,npm,postman,vscode&theme=dark&perline=10" alt="" />
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,blender,ps,ai,ae,pr,unity,arduino,raspberrypi,instagram&theme=dark&perline=10" alt="" />
+<br/>
+<br/>
+<img src="https://cdn.simpleicons.org/expo/ffffff" height="40" alt="Expo" />&nbsp;
+<img src="https://cdn.simpleicons.org/render/46E3B7" height="40" alt="Render" />&nbsp;
+<img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva" />&nbsp;
+<img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="Claude" />&nbsp;
+<img src="https://cdn.simpleicons.org/davinciresolve/ffffff" height="40" alt="DaVinci Resolve" />
 
 </div>
 
