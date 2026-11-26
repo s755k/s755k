@@ -53,7 +53,7 @@ I make interactive, over-the-top-in-a-good-way websites: scroll-triggered animat
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,threejs,nodejs,php,py,flask,pandas,numpy,matplotlib,c,godot,blender,netlify,cloudflare,instagram,git,github,vscode,figma&theme=dark&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,threejs,nodejs,php,py,flask,pandas,numpy,matplotlib,c,godot,blender,netlify,cloudflare,instagram,mysql,sqlite,postgres,firebase,docker,linux,bash,tailwind,vercel,postman,npm,git,github,githubactions,vscode,figma&theme=dark&perline=10" alt="Tech stack" />
 </a>
 
 <br/>
@@ -63,6 +63,9 @@ I make interactive, over-the-top-in-a-good-way websites: scroll-triggered animat
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ArgoUML](https://img.shields.io/badge/ArgoUML-B22222?style=for-the-badge)
+![PlantUML](https://img.shields.io/badge/UML-Diagrams-4B5563?style=for-the-badge)
+![Higgsfield](https://img.shields.io/badge/Higgsfield-111827?style=for-the-badge)
 
 </div>
 
