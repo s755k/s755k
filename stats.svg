@@ -1,0 +1,22 @@
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub stats for s755k">
+<rect x="0.5" y="0.5" width="494" height="194" rx="8" fill="#141321" stroke="#2d2a4a"/>
+<text x="25" y="35" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="600" fill="#a78bfa">s755k's GitHub Stats</text>
+<circle cx="31" cy="66" r="3.5" fill="#8b5cf6"/>
+<text x="45" y="70" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" fill="#9ca3af">Total Stars:</text>
+<text x="240" y="70" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">0</text>
+<circle cx="31" cy="86" r="3.5" fill="#8b5cf6"/>
+<text x="45" y="90" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" fill="#9ca3af">Total Commits:</text>
+<text x="240" y="90" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">10</text>
+<circle cx="31" cy="106" r="3.5" fill="#8b5cf6"/>
+<text x="45" y="110" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" fill="#9ca3af">Pull Requests:</text>
+<text x="240" y="110" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">11</text>
+<circle cx="31" cy="126" r="3.5" fill="#8b5cf6"/>
+<text x="45" y="130" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" fill="#9ca3af">Issues:</text>
+<text x="240" y="130" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">0</text>
+<circle cx="31" cy="146" r="3.5" fill="#8b5cf6"/>
+<text x="45" y="150" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" fill="#9ca3af">Public Repos:</text>
+<text x="240" y="150" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">3</text>
+<circle cx="31" cy="166" r="3.5" fill="#8b5cf6"/>
+<text x="45" y="170" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" fill="#9ca3af">Followers:</text>
+<text x="240" y="170" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" font-weight="600" fill="#e5e7eb">0</text>
+</svg>

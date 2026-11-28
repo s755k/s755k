@@ -1,0 +1,8 @@
+<svg width="300" height="195" viewBox="0 0 300 195" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Most used languages">
+<rect x="0.5" y="0.5" width="299" height="194" rx="8" fill="#141321" stroke="#2d2a4a"/>
+<text x="25" y="35" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="600" fill="#a78bfa">Most Used Languages</text>
+<clipPath id="bar"><rect x="25" y="52" width="250" height="8" rx="4"/></clipPath>
+<g clip-path="url(#bar)">
+</g>
+<text x="25" y="95" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#9ca3af">No language data yet</text>
+</svg>
